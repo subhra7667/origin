@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Devops.iml" filepath="$PROJECT_DIR$/Devops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/origin.iml" filepath="$PROJECT_DIR$/origin.iml" />
     </modules>
   </component>
 </project>
